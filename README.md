@@ -7,3 +7,7 @@ Based off shadcn/ui
   - Splash screen
   - Account creation page w/ social icons
   - Activity Tracker (WIP)
+## Version 1.1
+  - Activity Tracker Cont. (WIP)
+  - Settings page
+  - Adjusted the back button icons
