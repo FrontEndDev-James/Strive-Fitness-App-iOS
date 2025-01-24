@@ -21,4 +21,5 @@ Based off shadcn/ui
       - Added Profile Banner to fit profile page
       - 
   -   Adjusted the weights of each section in every corresponding frame
+  -   Heart Rate Monitor feature added to the activity tracker frame
   -   
