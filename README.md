@@ -20,4 +20,5 @@ Based off shadcn/ui
       - Added an average score graph (i.e. weekly, monthly, annually) that tracks exercise progress
       - Added Profile Banner to fit profile page
       - 
+  -   Adjusted the weights of each section in every corresponding frame
   -   
