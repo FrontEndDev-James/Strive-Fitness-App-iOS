@@ -14,4 +14,5 @@ Based off shadcn/ui
   - Adjusted the back button icons
 ## Version 1.2 (WIP)
   - Adjusted the trends section to fit appropriately
+  - Added the specific day marker to the calendar
   - WIP
