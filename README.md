@@ -15,4 +15,5 @@ Based off shadcn/ui
 ## Version 1.2 (WIP)
   - Adjusted the trends section to fit appropriately
   - Added the specific day marker to the calendar
-  - WIP
+  - Added a profile picture to frames where the user has already created an account
+  - 
