@@ -17,6 +17,6 @@ Based off shadcn/ui
   - Added the specific day marker to the calendar
   - Added a profile picture to frames where the user has already created an account
   - Profile page
-      - Added a average score graph
+      - Added an average score graph (i.e. weekly, monthly, annually) that tracks exercise progress
       - 
   -   
