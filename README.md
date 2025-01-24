@@ -23,4 +23,4 @@ Based off shadcn/ui
   -   Adjusted the weights of each section in every corresponding frame
   -   Heart Rate Monitor feature added to the activity tracker frame
       - Comparison to last taken heart rate added
-  -   
+  -   Added the long awaited HUD for existing user frames
