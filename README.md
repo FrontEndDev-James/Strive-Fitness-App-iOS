@@ -16,4 +16,7 @@ Based off shadcn/ui
   - Adjusted the trends section to fit appropriately
   - Added the specific day marker to the calendar
   - Added a profile picture to frames where the user has already created an account
-  - 
+  - Profile page
+      - Added a average score graph
+      - 
+  -   
