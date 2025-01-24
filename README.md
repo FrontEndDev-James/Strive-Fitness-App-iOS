@@ -12,3 +12,6 @@ Based off shadcn/ui
   - Settings page
       - Blank space left for additional settings
   - Adjusted the back button icons
+## Version 1.2 (WIP)
+  - Adjusted the trends section to fit appropriately
+  - WIP
