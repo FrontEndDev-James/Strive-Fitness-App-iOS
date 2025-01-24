@@ -18,5 +18,6 @@ Based off shadcn/ui
   - Added a profile picture to frames where the user has already created an account
   - Profile page
       - Added an average score graph (i.e. weekly, monthly, annually) that tracks exercise progress
+      - Added Profile Banner to fit profile page
       - 
   -   
