@@ -10,4 +10,5 @@ Based off shadcn/ui
 ## Version 1.1
   - Activity Tracker Cont. (WIP)
   - Settings page
+      - Blank space left for additional settings
   - Adjusted the back button icons
