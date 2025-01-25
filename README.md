@@ -25,6 +25,7 @@ Based off shadcn/ui
   -   Added the long awaited HUD for existing user frames
 ## Version 1.3 (Last Major Update)
   - Expanded the profile frame
+      - Displays the weight, body fat, and height of the user
   - Adjusted the HUD icons
   - Added more profile settings
   - Added a page indicator for ease of navigation
