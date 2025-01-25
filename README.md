@@ -27,4 +27,5 @@ Based off shadcn/ui
   - Expanded the profile frame
   - Adjusted the HUD icons
   - Added more profile settings
+  - Added a page indicator for ease of navigation
   - 
