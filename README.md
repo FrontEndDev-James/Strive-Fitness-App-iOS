@@ -23,7 +23,7 @@ Based off shadcn/ui
   -   Heart Rate Monitor feature added to the activity tracker frame
       - Comparison to last taken heart rate added
   -   Added the long awaited HUD for existing user frames
-## Version 1.3 (Last Major Update)
+## Version 1.3 
   - Expanded the profile frame
       - Displays the weight, body fat, and height of the user
   - Adjusted the HUD icons
