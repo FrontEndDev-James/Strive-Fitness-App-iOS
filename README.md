@@ -29,4 +29,6 @@ Based off shadcn/ui
   - Adjusted the HUD icons
   - Added more profile settings
   - Added a page indicator for ease of navigation
-  - 
+  - Expanded the profile settings component
+      - Added an update email feature
+      - Added an upload image feature to change profile picture
