@@ -33,3 +33,5 @@ Based off shadcn/ui
       - Added an update email feature
       - Added an upload image feature to change profile picture
 ## Version 1.4
+  - The official name for the application is ...
+  - 
