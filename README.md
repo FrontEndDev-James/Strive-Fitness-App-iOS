@@ -32,3 +32,4 @@ Based off shadcn/ui
   - Expanded the profile settings component
       - Added an update email feature
       - Added an upload image feature to change profile picture
+## Version 1.4
