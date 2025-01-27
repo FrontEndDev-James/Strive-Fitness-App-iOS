@@ -34,4 +34,5 @@ Based off shadcn/ui
       - Added an upload image feature to change profile picture
 ## Version 1.4
   - The official name for the application is Strive
+  - Created a logo for the splash screen & account creation frames
   - 
