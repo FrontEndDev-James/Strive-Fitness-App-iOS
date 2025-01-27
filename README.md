@@ -1,4 +1,4 @@
-# Fitness-App-iOS Changelog
+# Strive-Fitness-App-iOS Changelog
 Created with the Figma iOS 18 and iPadOS 18 UI Kit
 <br>
 Based off shadcn/ui
@@ -33,5 +33,5 @@ Based off shadcn/ui
       - Added an update email feature
       - Added an upload image feature to change profile picture
 ## Version 1.4
-  - The official name for the application is ...
+  - The official name for the application is Strive
   - 
