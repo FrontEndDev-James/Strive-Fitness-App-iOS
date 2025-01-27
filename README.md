@@ -38,4 +38,5 @@ Based off shadcn/ui
   - Added a list of exercise categories for the user to choose from in the activity tracker
   - Fixed the vertical scrollbar in the activity tracker frames
   - Adjusted the opacity of the bottom HUD bar for better visibility
-  - 
+  - Expanded the profile frame
+      - Added an exercise log that tracks any exercises the user listed for the past 24 hrs.
