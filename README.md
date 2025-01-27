@@ -37,4 +37,5 @@ Based off shadcn/ui
   - Created a logo for the splash screen & account creation frames
   - Added a list of exercise categories for the user to choose from in the activity tracker
   - Fixed the vertical scrollbar in the activity tracker frames
+  - Adjusted the opacity of the bottom HUD bar for better visibility
   - 
