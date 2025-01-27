@@ -40,3 +40,5 @@ Based off shadcn/ui
   - Adjusted the opacity of the bottom HUD bar for better visibility
   - Expanded the profile frame
       - Added an exercise log that tracks any exercises the user listed for the past 24 hrs.
+      - Adjusted the vertical scrollbar
+      - 
