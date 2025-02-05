@@ -3,7 +3,7 @@ Created with the Figma iOS 18 and iPadOS 18 UI Kit
 <br>
 Based off shadcn/ui
 <hr>
-![image](https://github.com/user-attachments/assets/d221c5a3-eec0-41e6-b565-2bb40bbf52b6)
+https://github.com/FrontEndDev-James/Strive-Fitness-App-iOS/blob/main/iPhone%2016%20Pro%20-%20All%20frames%20V3.png?raw=true
 
 ## Version 1.0
   - Splash screen
