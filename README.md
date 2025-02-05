@@ -2,6 +2,8 @@
 Created with the Figma iOS 18 and iPadOS 18 UI Kit
 <br>
 Based off shadcn/ui
+<hr>
+![image](https://github.com/user-attachments/assets/6f0dfb31-4ee8-4808-b5a8-ea1994ac4422)
 
 ## Version 1.0
   - Splash screen
