@@ -18,7 +18,11 @@ const signUpSchema = z.object({
 
 type SignUpFormData = z.infer<typeof signUpSchema>;
 
-const SignUpForm = () => {
+interface SignUpFormProps {
+  onBack: () => void;
+}
+
+const SignUpForm = ({ onBack }: SignUpFormProps) => {
   const { register, handleSubmit, formState: { errors } } = useForm<SignUpFormData>({
     resolver: zodResolver(signUpSchema)
   });
@@ -30,7 +34,15 @@ const SignUpForm = () => {
 
   return (
     <div className="max-w-md mx-auto bg-white rounded-lg shadow-lg p-8">
-      <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">Create Account</h2>
+      <div className="flex items-center mb-6">
+        <button
+          onClick={onBack}
+          className="text-gray-600 hover:text-gray-800"
+        >
+          ← Back
+        </button>
+        <h2 className="text-3xl font-bold text-center text-gray-800 flex-1">Create Account</h2>
+      </div>
       <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
         <div>
           <label htmlFor="name" className="block text-sm font-medium text-gray-700">Name</label>
